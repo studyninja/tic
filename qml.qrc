@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>C.svg</file>
+        <file>D.svg</file>
+        <file>E.svg</file>
+        <file>Px.svg</file>
+        <file>Re.svg</file>
+        <file>S.svg</file>
+        <file>TicTacToe.svg</file>
+        <file>Vi.svg</file>
+        <file>W.svg</file>
+        <file>X.svg</file>
+        <file>Z.svg</file>
+        <file>Grid.svg</file>
+        <file>Border.svg</file>
+        <file>TicTac.qml</file>
+        <file>Jin.qml</file>
+        <file>A.svg</file>
+        <file>N.svg</file>
+        <file>K.svg</file>
+        <file>L.svg</file>
+        <file>M.svg</file>
+        <file>I.svg</file>
+        <file>J.svg</file>
+        <file>O.svg</file>
+        <file>,.svg</file>
+        <file>Ji.qml</file>
+        <file>B.svg</file>
+        <file>Ge.svg</file>
+        <file>Po.svg</file>
+        <file>Board.qml</file>
+        <file>TTT.qml</file>
+        <file>P.svg</file>
+        <file>Q.svg</file>
+        <file>Chess.qml</file>
+    </qresource>
+</RCC>
